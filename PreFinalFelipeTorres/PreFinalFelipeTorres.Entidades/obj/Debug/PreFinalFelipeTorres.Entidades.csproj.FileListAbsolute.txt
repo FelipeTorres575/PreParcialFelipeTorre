@@ -1,0 +1,6 @@
+C:\Users\otsir\Desktop\PreParcial Definitivo\PreFinalFelipeTorres\PreFinalFelipeTorres.Entidades\bin\Debug\PreFinalFelipeTorres.Entidades.dll
+C:\Users\otsir\Desktop\PreParcial Definitivo\PreFinalFelipeTorres\PreFinalFelipeTorres.Entidades\bin\Debug\PreFinalFelipeTorres.Entidades.pdb
+C:\Users\otsir\Desktop\PreParcial Definitivo\PreFinalFelipeTorres\PreFinalFelipeTorres.Entidades\obj\Debug\PreFinalFelipeTorres.Entidades.csproj.AssemblyReference.cache
+C:\Users\otsir\Desktop\PreParcial Definitivo\PreFinalFelipeTorres\PreFinalFelipeTorres.Entidades\obj\Debug\PreFinalFelipeTorres.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\otsir\Desktop\PreParcial Definitivo\PreFinalFelipeTorres\PreFinalFelipeTorres.Entidades\obj\Debug\PreFinalFelipeTorres.Entidades.dll
+C:\Users\otsir\Desktop\PreParcial Definitivo\PreFinalFelipeTorres\PreFinalFelipeTorres.Entidades\obj\Debug\PreFinalFelipeTorres.Entidades.pdb

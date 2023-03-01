@@ -1,0 +1,14 @@
+C:\Users\otsir\Desktop\PreParcial Definitivo\PreFinalFelipeTorres\PreFinalFelipeTorres.Windows\obj\Debug\PreFinalFelipeTorres.Windows.csproj.AssemblyReference.cache
+C:\Users\otsir\Desktop\PreParcial Definitivo\PreFinalFelipeTorres\PreFinalFelipeTorres.Windows\obj\Debug\PreFinalFelipeTorres.Windows.frmCuboAE.resources
+C:\Users\otsir\Desktop\PreParcial Definitivo\PreFinalFelipeTorres\PreFinalFelipeTorres.Windows\obj\Debug\PreFinalFelipeTorres.Windows.frmPrincipal.resources
+C:\Users\otsir\Desktop\PreParcial Definitivo\PreFinalFelipeTorres\PreFinalFelipeTorres.Windows\obj\Debug\PreFinalFelipeTorres.Windows.Properties.Resources.resources
+C:\Users\otsir\Desktop\PreParcial Definitivo\PreFinalFelipeTorres\PreFinalFelipeTorres.Windows\obj\Debug\PreFinalFelipeTorres.Windows.csproj.GenerateResource.cache
+C:\Users\otsir\Desktop\PreParcial Definitivo\PreFinalFelipeTorres\PreFinalFelipeTorres.Windows\obj\Debug\PreFinalFelipeTorres.Windows.csproj.CoreCompileInputs.cache
+C:\Users\otsir\Desktop\PreParcial Definitivo\PreFinalFelipeTorres\PreFinalFelipeTorres.Windows\bin\Debug\PreFinalFelipeTorres.Windows.exe.config
+C:\Users\otsir\Desktop\PreParcial Definitivo\PreFinalFelipeTorres\PreFinalFelipeTorres.Windows\bin\Debug\PreFinalFelipeTorres.Windows.exe
+C:\Users\otsir\Desktop\PreParcial Definitivo\PreFinalFelipeTorres\PreFinalFelipeTorres.Windows\bin\Debug\PreFinalFelipeTorres.Windows.pdb
+C:\Users\otsir\Desktop\PreParcial Definitivo\PreFinalFelipeTorres\PreFinalFelipeTorres.Windows\obj\Debug\PreFinalFelipeTorres.Windows.exe
+C:\Users\otsir\Desktop\PreParcial Definitivo\PreFinalFelipeTorres\PreFinalFelipeTorres.Windows\obj\Debug\PreFinalFelipeTorres.Windows.pdb
+C:\Users\otsir\Desktop\PreParcial Definitivo\PreFinalFelipeTorres\PreFinalFelipeTorres.Windows\bin\Debug\PreFinalFelipeTorres.Entidades.dll
+C:\Users\otsir\Desktop\PreParcial Definitivo\PreFinalFelipeTorres\PreFinalFelipeTorres.Windows\bin\Debug\PreFinalFelipeTorres.Entidades.pdb
+C:\Users\otsir\Desktop\PreParcial Definitivo\PreFinalFelipeTorres\PreFinalFelipeTorres.Windows\obj\Debug\PreFinalFelipeTorres.Windows.csproj.CopyComplete
